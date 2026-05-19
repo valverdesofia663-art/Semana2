@@ -1,0 +1,16 @@
++pwd
+ls
+cd
+mkdir
+touch
+cat
+nano
+rm
+cp
+mv
+clear
+git statu
+git add
+git commit
+git push
+pkg istall git
